@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Html Serializer.exe
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Html Serializer.deps.json
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Html Serializer.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Html Serializer.dll
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Html Serializer.pdb
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.csproj.CopyComplete
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.dll
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\refint\Html Serializer.dll
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.pdb
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\Html Serializer.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\תשפד\דוטנט\Html Serializer\Html Serializer\obj\Debug\net7.0\ref\Html Serializer.dll

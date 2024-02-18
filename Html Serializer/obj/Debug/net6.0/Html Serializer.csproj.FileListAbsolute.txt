@@ -1,0 +1,17 @@
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Html Serializer.exe
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Html Serializer.deps.json
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Html Serializer.runtimeconfig.json
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Html Serializer.dll
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Html Serializer.pdb
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.csproj.AssemblyReference.cache
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.AssemblyInfoInputs.cache
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.AssemblyInfo.cs
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.csproj.CoreCompileInputs.cache
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.csproj.CopyComplete
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.dll
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\refint\Html Serializer.dll
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.pdb
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\Html Serializer.genruntimeconfig.cache
+D:\שנה ב\פרקטיקוד\פרקטיקוד2\Html Serializer\Html Serializer\obj\Debug\net6.0\ref\Html Serializer.dll
